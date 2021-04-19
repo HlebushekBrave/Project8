@@ -8,4 +8,4 @@ def HanoiTower(n, from_, to_, additional):
 
 
 n = int(input('Введите изначальное количество дисков в башне: '))
-HanoiTower(n, 'A', 'B', 'C')
+HanoiTower(n, '1', '2', '3')
